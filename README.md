@@ -1,5 +1,17 @@
-# Hey there 👋  
+  <!-- INTRO ANIMATION -->
+<div align="center">
 
+  <!-- Personalized Banner -->
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=60&duration=2000&pause=800&color=00F5FF,FF00FF,F9F871,FF4500&center=true&vCenter=true&width=1800&height=300&lines=⚡+Hey%2C+I'm+Atharva+Pandey;💻+Full-Stack+Developer;🤖+ML+Explorer;🎮+Part-Time+Gamer;🚀+Always+Learning" 
+    alt="Atharva Banner" 
+    width="100%" 
+    height="400px" 
+  />
+
+</div>
+
+### 👋🏻 About me
 I'm Atharva , a curious mind diving deeper into *full-stack development* and *machine learning*.  
 I love building meaningful tech solutions—whether it's designing intuitive UIs or implementing fast, secure backend logic.  
 
@@ -41,7 +53,8 @@ I love building meaningful tech solutions—whether it's designing intuitive UIs
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvapd27&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=FF5722&text_color=ffffff&bg_color=0D1117" height="160" alt="Languages" />  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvapd27&bg_color=0D1117&color=ffffff&line=FF5722&point=FFD700&area=true&hide_border=true&radius=15&custom_title=🔥%20Contribution%20Graph" alt="Activity Graph" />  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvapd27&bg_color=0D1117&color=ffffff&line=FF5722&point=FFD700&area=true&hide_border=true&radius=15&custom_title=🔥%20Contribution%20Graph&theme=tokyo-night&custom_timeframe=90" alt="Activity Graph" />
+ 
 
 </div>
 
@@ -51,9 +64,21 @@ I love building meaningful tech solutions—whether it's designing intuitive UIs
 
 ### 🌟 Let's Connect  
 
-💼 [**LinkedIn**](https://www.linkedin.com/in/atharvapd27)  
-📧 **Email:** atharvapandey100@gmail.com  
-🌐 [**Portfolio**](#) *(coming soon!)*  
+<div align="center">
+
+<a href="https://www.linkedin.com/in/atharva-pd27/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:atharvapandey100@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
 
 
 <div align="center">
