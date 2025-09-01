@@ -69,8 +69,6 @@ I love building meaningful tech solutions—whether it's designing intuitive UIs
 🌐 [**Portfolio**](#) *(coming soon!)*  
 
 
-## ⚽ Fun Zone  
-
 <div align="center">
 
 <!-- Snake Eating Contributions -->
